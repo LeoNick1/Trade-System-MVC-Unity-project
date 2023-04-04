@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Item_Icons_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 41c66cfe0da410245b739c2a2dda86d9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 719c2201c2f5f6c4aafffaeb5abdf5f9, type: 3}
+  - {fileID: 21300000, guid: ea9306e1aa95eb8439400efefff9f8db, type: 3}
+  - {fileID: 21300000, guid: cb93653465f6bc64f938a8231850ae83, type: 3}
+  - {fileID: 21300000, guid: b0155957134394e3ab756113ac6a977e, type: 3}
+  - {fileID: 21300000, guid: c715a9f7f4d044049ad333bf06306ed0, type: 3}
+  - {fileID: 21300000, guid: d659f7396cd57754eba78763cf986c51, type: 3}
+  - {fileID: 21300000, guid: 6b213c5905ab86247bec56e1134be3ed, type: 3}
+  - {fileID: 21300000, guid: a938c2dc75e47c7469ce644250a6c8fa, type: 3}
+  - {fileID: 21300000, guid: 3730e1eedfffd2948bb740e30373d554, type: 3}
+  - {fileID: 21300000, guid: 4529ec1f96075cf43abd428185f25409, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 7_Axe
+  - 1_Potion
+  - 6_Book
+  - 10_Cheese
+  - 9_Grape
+  - 2_Armor
+  - 3_Ruby
+  - 5_Steel
+  - 4_Gloves
+  - 8_Salad
+  m_RenderDataMap: {}
+  m_Tag: Item_Icons_Atlas
+  m_IsVariant: 0

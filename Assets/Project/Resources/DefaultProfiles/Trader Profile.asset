@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15e37ae1aec5f5e4c8b4beb142f56785, type: 3}
+  m_Name: Trader Profile
+  m_EditorClassIdentifier: 
+  _owner: 1
+  _balance: 10000
+  _inventoryItems:
+  - ItemData: {fileID: 11400000, guid: 6a944173d07f25d4e898727f6842960a, type: 2}
+  - ItemData: {fileID: 11400000, guid: f7fa9d8a200904c4b901cb9390326c4c, type: 2}
+  - ItemData: {fileID: 11400000, guid: 490f6d3ffc1577a489edd99407c804cd, type: 2}
+  _inventoryCapacity: 20
+  _buyFactor: 0.9
+  _sellFactor: 1.2

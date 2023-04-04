@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Trade_Window_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: f7f681cd213d9a7488500ce745f2d4f8, type: 3}
+    - {fileID: 21300000, guid: 93d1285704e7d814ca883dd4d2dcaac3, type: 3}
+    - {fileID: 21300000, guid: 12eaceb7341922b4398ff20c8bbcff90, type: 3}
+    - {fileID: 21300000, guid: 25d4fd233baa4124f83666321d28797e, type: 3}
+    - {fileID: 21300000, guid: 41abd7189d1ec5845b0a767ba6637dc9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 25d4fd233baa4124f83666321d28797e, type: 3}
+  - {fileID: 21300000, guid: 93d1285704e7d814ca883dd4d2dcaac3, type: 3}
+  - {fileID: 21300000, guid: 12eaceb7341922b4398ff20c8bbcff90, type: 3}
+  - {fileID: 21300000, guid: 41abd7189d1ec5845b0a767ba6637dc9, type: 3}
+  - {fileID: 21300000, guid: f7f681cd213d9a7488500ce745f2d4f8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Pennant
+  - Paper_snippet
+  - Title_bg
+  - ScrollingBar_handle
+  - Trade_window_bg
+  m_RenderDataMap: {}
+  m_Tag: Trade_Window_Atlas
+  m_IsVariant: 0
